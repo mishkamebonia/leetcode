@@ -1,4 +1,4 @@
-strs = ["flower", "flow", "flight"];
+const strs = ["flower", "flow", "flight"];
 
 var longestCommonPrefix = function (strs) {
   let preset = "";
